@@ -1,5 +1,5 @@
 # meusegundo-html
-segunda pagina html (my second page html
+segunda pagina html (my second page html)
 <!DOCTYPE HTML>
 <HTML>
 	<head>
